@@ -2942,8 +2942,8 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #fff;
-  background-color: #0d6efd;
-  border-color: #0d6efd;
+  background-color: #0C2E8A;
+  border-color: #0C2E8A;
 }
 .btn-primary:hover {
   color: #fff;
@@ -2972,8 +2972,8 @@ textarea.form-control-lg {
 
 .btn-secondary {
   color: #fff;
-  background-color: #6c757d;
-  border-color: #6c757d;
+  background-color: #50D8AF;
+  border-color: #50D8AF;
 }
 .btn-secondary:hover {
   color: #fff;
@@ -7335,11 +7335,14 @@ textarea.form-control-lg {
 
 /* rtl:end:remove */
 .text-primary {
-  color: #0d6efd !important;
+  color: #0C2E8A !important;
 }
 
 .text-secondary {
-  color: #6c757d !important;
+  color: #50D8AF !important;
+}
+.text-tertiary{
+  color: blue !important;
 }
 
 .text-success {
